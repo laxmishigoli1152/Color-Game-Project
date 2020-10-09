@@ -1,4 +1,4 @@
-<h1>DICE GAME</h1>
+<h1>COLOR GAME</h1>
 <p>A Simple Color Game usig HTML, CSS, JAVASCRIPT for beginners. to create issues, use first-timers-only. Happy coding for Hacktoberfest 2020 
 
 
